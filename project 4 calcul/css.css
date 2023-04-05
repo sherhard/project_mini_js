@@ -1,0 +1,50 @@
+.block{
+	margin-top: 15%;
+}
+.wrapper{
+	text-align: center;
+	border: 2px solid black;
+	width: 250px;
+	margin: 0 auto;
+}
+.number{
+	padding: 5px;
+	background: orange;
+	margin: 5px;
+	border-radius: 10px;
+	font-size: 17px;
+	font-weight: bold;
+}
+
+.sing{
+	width: 40px;
+	background: black;
+	color: gold;
+	font-size: 30px;
+
+}
+.sing:hover{
+	box-shadow: 10px 5px 5px red;
+}
+.result_block{
+	width: 180px;
+	height: 30px;
+	background: gray;
+	margin: 0 auto;
+	border-radius: 10px;
+	font-size: 17px;
+
+}
+.result{
+	margin: 5px;
+	margin-bottom: 10px;
+	
+	font-weight: bold;
+}
+
+.hexcolor{
+	background: blueviolet;
+	height: 30px;
+	text-align: center;
+	margin-top: 30px;
+}
